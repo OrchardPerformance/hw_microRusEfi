@@ -3775,7 +3775,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 186.563 23.9776 90)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 196.85 53.975 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 196.85 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 196.85 53.975 0)
@@ -3941,7 +3941,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 340.5124 23.368 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 310.515 33.655 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 310.515 33.655 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 310.515 33.655 0)
@@ -3980,7 +3980,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 302.4124 80.518 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 272.415 90.805 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 272.415 90.805 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 272.415 90.805 0)
@@ -4119,7 +4119,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 148.4376 216.662 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 178.435 206.375 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 178.435 206.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 178.435 206.375 0)
@@ -4137,7 +4137,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 148.4376 214.122 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 178.435 203.835 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 178.435 203.835 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 178.435 203.835 0)
@@ -4155,7 +4155,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 147.8026 222.377 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 177.8 212.09 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 177.8 212.09 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 177.8 212.09 0)
@@ -4173,7 +4173,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 225.5774 216.408 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 195.58 226.695 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 195.58 226.695 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 195.58 226.695 0)
@@ -4191,7 +4191,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 225.5774 224.028 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 195.58 234.315 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 195.58 234.315 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 195.58 234.315 0)
@@ -4209,7 +4209,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 225.5774 226.568 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 195.58 236.855 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 195.58 236.855 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 195.58 236.855 0)
@@ -4227,7 +4227,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 225.5774 229.108 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 195.58 239.395 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 195.58 239.395 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 195.58 239.395 0)
@@ -4245,7 +4245,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 225.5774 221.488 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 195.58 231.775 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 195.58 231.775 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 195.58 231.775 0)
@@ -4263,7 +4263,7 @@
     (property "Value" "molex_48pin_MRE" (id 1) (at 291.6174 107.188 90)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "rusefi_lib:Molex_48_MRE" (id 2) (at 261.62 117.475 0)
+    (property "Footprint" "rusefi_lib:Molex_48_BCM" (id 2) (at 261.62 117.475 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 261.62 117.475 0)
@@ -5072,10 +5072,10 @@
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/af0b75b4-a64d-4a5e-8354-9a260f8c98b2"
-      (reference "2.2u1") (unit 1) (value "INDUCTOR") (footprint "")
+      (reference "2.2u1") (unit 1) (value "INDUCTOR") (footprint "Simon:MWSA0503")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/4a59a32d-2b47-4348-8807-b2b43b7d1193"
-      (reference "10u1") (unit 1) (value "L_Small") (footprint "")
+      (reference "10u1") (unit 1) (value "L_Small") (footprint "Inductor_SMD:L_1210_3225Metric")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/f0330e9d-5112-4dc0-b07f-f827e8dc268c"
       (reference "C1") (unit 1) (value "4.7u") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5090,7 +5090,7 @@
       (reference "C4") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/057fa376-9d40-441f-8772-43aaae16caf2"
-      (reference "C5") (unit 1) (value "100n") (footprint "")
+      (reference "C5") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/6031f4d5-cb06-4042-b7dd-a4c33ea22759"
       (reference "C6") (unit 1) (value "270p") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5222,7 +5222,7 @@
       (reference "C82") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/c266c5e9-26ce-4324-845a-6fae6489a0be"
-      (reference "D1") (unit 1) (value "D_Schottky") (footprint "")
+      (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMA")
     )
     (path "/00000000-0000-0000-0000-00005e9b40e4"
       (reference "D7") (unit 1) (value "B5819W") (footprint "Diode_SMD:D_SOD-123")
@@ -5333,7 +5333,7 @@
       (reference "NT3") (unit 1) (value "Analog Ground Net Tie") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/20fcf059-ceaa-40e8-a2b1-5e422a7a34b9"
-      (reference "R1") (unit 1) (value "R") (footprint "")
+      (reference "R1") (unit 1) (value "1") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/00000000-0000-0000-0000-00005c5d7fa6/96571ea4-422b-4986-8d5a-19c0547da6ca"
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
@@ -5567,46 +5567,46 @@
       (reference "U2") (unit 1) (value "LMR14020") (footprint "Simon:SOIC8-DFN")
     )
     (path "/00000000-0000-0000-0000-00005dd8bb43"
-      (reference "U3") (unit 1) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 1) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005d0250fb/00000000-0000-0000-0000-00005e8ee3bc"
-      (reference "U3") (unit 3) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 3) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005e7587f2"
-      (reference "U3") (unit 4) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 4) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005e75e517"
-      (reference "U3") (unit 6) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 6) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005d0250fb/00000000-0000-0000-0000-00005ebaf142"
-      (reference "U3") (unit 7) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 7) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fdea88f"
-      (reference "U3") (unit 8) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 8) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fe1bbb9"
-      (reference "U3") (unit 9) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 9) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fe33973"
-      (reference "U3") (unit 10) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 10) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fe3397d"
-      (reference "U3") (unit 11) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 11) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fe4fa20"
-      (reference "U3") (unit 12) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 12) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fe4fa2a"
-      (reference "U3") (unit 13) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 13) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005fe4fa34"
-      (reference "U3") (unit 14) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 14) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005f86e169"
-      (reference "U3") (unit 15) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 15) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005f86bb48"
-      (reference "U3") (unit 16) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_MRE")
+      (reference "U3") (unit 16) (value "molex_48pin_MRE") (footprint "rusefi_lib:Molex_48_BCM")
     )
     (path "/00000000-0000-0000-0000-00005d0250fb/00000000-0000-0000-0000-00005d8f198d"
       (reference "U5") (unit 1) (value "LM1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
