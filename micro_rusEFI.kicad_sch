@@ -3369,10 +3369,10 @@
     (uuid fafe9ec6-aed4-4584-9236-5e032594926f)
   )
 
-  (global_label "5V" (shape input) (at 203.1526 172.085 0) (fields_autoplaced)
+  (global_label "5V" (shape input) (at 212.09 172.085 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 439a1daa-d91e-418d-b9ae-eab277b9925f)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 207.7749 172.0056 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 216.7123 172.0056 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
